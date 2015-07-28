@@ -3,7 +3,7 @@
    ========================================================================== */
 
 body {
-  background: url('../img/pattern_130.gif');
+  background: url('../img/pattern.jpg');
 }
 
 b {
@@ -55,7 +55,7 @@ html[data-hoodie-account-status=signedout] .hoodie-account-signedout {
   top: 20px;
   right: 20px;
   font-size: 48px;
-  font-family: "Arial Black", sans-serif;
+  font-family: "Cooper Black", monospace;
   color: rgba(255, 255, 255, 0.1);
 }
 
@@ -73,7 +73,7 @@ html[data-hoodie-account-status=signedout] .hoodie-account-signedout {
 }
 .jumbotron,
 .copy {
-  background: #EBE7DA;
+  background: #fcfc64;
   margin: 0;
   border-radius: 0;
 }
